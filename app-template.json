@@ -1,4 +1,5 @@
 {
+    "id": "paypal_cloud",
     "name": "Paypal",
     "type": "cloud_nodejs",
     "repoUrl": "https://github.com/feedhenry/fh-connector-paypal-cloud.git",
