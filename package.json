@@ -1,5 +1,5 @@
 {
-  "name": "fh-service-amazon-ses-cloud",
+  "name": "fh-service-paypal-cloud",
   "version": "0.2.0",
   "dependencies": {
     "express": "4.0.0",
