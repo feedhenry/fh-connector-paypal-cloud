@@ -1,6 +1,7 @@
 FORMAT: 1A
 
 # FeedHenry PayPal Connector
+[![Dependency Status](https://img.shields.io/david/feedhenry-templates/fh-connector-paypal-cloud.svg?style=flat-square)](https://david-dm.org/feedhenry-templates/fh-connector-paypal-cloud)
 
 The FeedHenry PayPal Connector. For more information on PayPal see: [https://github.com/paypal/rest-api-sdk-nodejs](https://github.com/paypal/rest-api-sdk-nodejs).
 
